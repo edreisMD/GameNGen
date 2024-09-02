@@ -9,9 +9,14 @@
 
 ### 1. Train Agent Play
 
-Please refer to the [README](./train_agent_play/README.md) on train_agent_play folder for more details.
+Planning to use the [VIZDoomBot](https://github.com/ViZDoomBot/stable-baselines-agent) library to train the agent to play the game.
+See specific [README](./train_agent_play/README.md) for more details.
 
-References:
+Tutorial on getting started with Doom RL using Stable Baselines 3 and VizDoom.
+- See [Tutorial](./train_agent_play/tutorial_get_started_doom_rl/README.md) on folder `train_agent_play/tutorial_get_started_doom_rl`.
+
+Resources:
+- VizdoomBot - [GitHub](https://github.com/ViZDoomBot/stable-baselines-agent) / [Website](https://vizdoombot2021.netlify.app/)
 - Doom RL Tutorial [Medium Article](https://lkieliger.medium.com/deep-reinforcement-learning-in-practice-by-playing-doom-part-1-getting-started-618c99075c77) by [Leandro Kieliger](https://lkieliger.medium.com/?source=post_page-----618c99075c77--------------------------------)
 - Doom RL Tutorial [Notebook](https://nbviewer.org/github/lkiel/rl-doom/blob/develop/standalone_examples/Basic%20Scenario.ipynb)
 - [Stable Baselines 3](https://stable-baselines3.readthedocs.io/en/master/index.html)
@@ -22,7 +27,7 @@ References:
 ### 3. Train the diffusion model
 
 
-Reference:
+## References:
 
 ```bibtex
 @misc{valevski2024diffusionmodelsrealtimegame,

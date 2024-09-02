@@ -1,0 +1,3 @@
+[submodule "stable-baselines-agent"]
+	path = stable-baselines-agent
+	url = https://github.com/edreisMD/stable-baselines-agent
