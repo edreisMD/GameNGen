@@ -10,10 +10,10 @@
 ### 1. Train Agent Play
 
 Planning to use the [VIZDoomBot](https://github.com/ViZDoomBot/stable-baselines-agent) library to train the agent to play the game.
-See specific [README](./train_agent_play/README.md) for more details.
+See specific [README](./opengamengen/train_agent_play/README.md) for more details.
 
 Tutorial on getting started with Doom RL using Stable Baselines 3 and VizDoom.
-- See [Tutorial](./train_agent_play/tutorial_get_started_doom_rl/README.md) on folder `train_agent_play/tutorial_get_started_doom_rl`.
+- See [Tutorial](./opengamengen/train_agent_play/tutorial_get_started_doom_rl/README.md) on folder `train_agent_play/tutorial_get_started_doom_rl`.
 
 Resources:
 - VizdoomBot - [GitHub](https://github.com/ViZDoomBot/stable-baselines-agent) / [Website](https://vizdoombot2021.netlify.app/)
