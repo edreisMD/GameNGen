@@ -1,7 +1,8 @@
+# Getting Started with Doom RL
 
-#### 1. Train Agent Play
+*The goal of this tutorial is to understand how to train an agent to play Doom using Stable Baselines 3 and VizDoom.*
 
-I encounter some problems intalling the requirements. I needed to install cmake, sdl2, and boost first using brew on Mac:
+This tutorial is based on the Doom RL Medium article and notebook by [Leandro Kieliger](https://lkieliger.medium.com/?source=post_page-----618c99075c77--------------------------------).
 
 Mac:
 ```bash

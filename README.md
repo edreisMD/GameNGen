@@ -1,13 +1,13 @@
 # OpenGamenGen
 
-Open-source implementation of the [GameNGen paper](https://arxiv.org/abs/2408.14837). "Diffusion Models Are Real-Time Game Engines"
+*Open-source implementation of [GameNGen](https://arxiv.org/abs/2408.14837): Diffusion Models Are Real-Time Game Engines<sup>1</sup>*
 
 ## Steps
 1. Train Agent Play
 2. Collect data at scale
 3. Train the diffusion model
 
-#### 1. Train Agent Play
+### 1. Train Agent Play
 
 Please refer to the [README](./train_agent_play/README.md) on train_agent_play folder for more details.
 
@@ -17,9 +17,9 @@ References:
 - [Stable Baselines 3](https://stable-baselines3.readthedocs.io/en/master/index.html)
 - [VizDoom](https://github.com/mwydmuch/ViZDoom)
 
-#### 2. Collect Data
+### 2. Collect Data
 
-#### 3. Train the diffusion model
+### 3. Train the diffusion model
 
 
 Reference:

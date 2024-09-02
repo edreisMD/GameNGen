@@ -5,7 +5,6 @@ __pycache__/
 
 # VizDoom
 logs
-scenarios
 _vizdoom.ini
 
 # C extensions
