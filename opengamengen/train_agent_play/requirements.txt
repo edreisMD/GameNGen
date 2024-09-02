@@ -1,0 +1,7 @@
+stable-baselines3
+vizdoom
+torch
+gym
+tensorboard
+opencv-python
+shimmy

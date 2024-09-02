@@ -1,4 +1,6 @@
-# Open-source implementation of the [GameNGen paper](https://arxiv.org/abs/2408.14837). "Diffusion Models Are Real-Time Game Engines"
+# OpenGameNgen
+
+Open-source implementation of the [GameNGen paper](https://arxiv.org/abs/2408.14837). "Diffusion Models Are Real-Time Game Engines"
 
 ## Steps
 1. Train Agent Play
