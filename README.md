@@ -1,4 +1,4 @@
-# OpenGamenGen
+# GameNGen (WIP)
 
 *Open-source implementation of [GameNGen](https://arxiv.org/abs/2408.14837): Diffusion Models Are Real-Time Game Engines<sup>1</sup>*
 
